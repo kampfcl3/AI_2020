@@ -1,4 +1,4 @@
-### import data to excel
+### import excel to colab
 ```
 1.copy the address on github (raw)
 2.!wget https://raw.githubusercontent.com/MyDearGreatTeacher/AI_and_security_2020/master/referendum2.csv
