@@ -1,4 +1,8 @@
 ## DVWA Security
+```
+新手指南：DVWA-1.9全级别教程（完结篇，附实例）之XSS 
+https://www.freebuf.com/articles/web/123779.html
+```
 ### SQL injection:LOW
 #### 瀏覽全部資料 1' or '1'='1
 ![image](https://github.com/kampfcl3/AI_2020/blob/main/security/pic/SQL%20injection1.png)
